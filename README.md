@@ -96,5 +96,3 @@ colab stop -s demo
 
 - https://developers.googleblog.com/introducing-the-google-colab-cli/
 - https://github.com/googlecolab/google-colab-cli/
-git branch -M main
-git remote add origin https://github.com/hisplan/tutorial-colab-cli.git
