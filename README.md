@@ -1,5 +1,7 @@
 # Colab CLI
 
+Google Colab CLI is a command-line interface for Google Colab. It allows you to manage Colab sessions, execute scripts, and transfer files between your local machine and Colab sessions.
+
 ## Dependencies
 
 As of 2026-08-10, the Colab CLI requires Python 3.13.
